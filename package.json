@@ -1,0 +1,21 @@
+{
+  "name": "one-page-checkout",
+  "version": "0.1.0",
+  "author": "Kevin Ruscoe",
+  "devDependencies": {
+    "laravel-mix": "^6.0.18",
+    "postcss": "^8.2.13",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.1.2",
+    "vue-loader": "^15.9.6",
+    "vue-template-compiler": "^2.6.12",
+    "postcss-loader": "^5.2.0",
+    "@tailwindcss/forms": "^0.3.2",
+    "vue": "^2.6.12"
+  },
+  "dependencies": {
+    "@woocommerce/woocommerce-rest-api": "^1.0.1",
+    "axios": "^0.21.1",
+    "vuex": "^3.6.2"
+  }
+}
